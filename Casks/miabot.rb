@@ -1,6 +1,6 @@
 cask "miabot" do
-  version "0.1.55"
-  sha256 "5e6cd0751f59bffde008194b8eabe57ff9aa2ab7d7b960ec2beed7d586004d8c"
+  version "0.1.57"
+  sha256 "18f6444cab74c881b5b8c874c5ffb53b22d13c1654b8caad87c1403248bc5d16"
 
   # Apple Silicon build from the desktop release. The source repository can stay
   # private; this URL must stay reachable without a GitHub login.
